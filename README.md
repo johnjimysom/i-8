@@ -5,8 +5,8 @@
     <a href="#version">
         <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
             alt="version"></a>
-    <a href="https://bureidake.github.io/">
-        <img src="https://img.shields.io/badge/i-8-working-green.svg"
+    <a href="#status">
+        <img src="https://img.shields.io/badge/i8-working-green.svg"
             alt="status"></a>
     <a href="#update">
         <img src="https://img.shields.io/badge/update-outdated -FFA500.svg"
