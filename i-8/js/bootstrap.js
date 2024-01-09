@@ -4,8 +4,6 @@
  * Licensed under the MIT license
  */
 
-/*** ||||||||||||||||||||||||||||||||||||||||||||| For learning and teaching purposes |||||||||||||||||||||||||| *****/
-
 if (typeof jQuery === 'undefined') {
   throw new Error('Bootstrap\'s JavaScript requires jQuery')
 }
